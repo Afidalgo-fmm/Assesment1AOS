@@ -1,0 +1,20 @@
+2026-03-03 18:53:29 - CPU and memory usage queried
+2026-03-03 18:53:40 - System monitor terminated by user
+2026-03-03 19:07:35 - Top 10 memory processes listed
+2026-03-03 19:07:48 - CPU and memory usage queried
+2026-03-03 19:10:40 - System monitor terminated by user
+2026-03-03 19:11:49 - System resource overview displayed
+2026-03-03 19:12:31 - Invalid menu option: y
+2026-03-03 19:12:35 - System monitor terminated by user
+2026-03-03 19:13:43 - Disk inspection failed: directory  does not exist
+2026-03-03 19:14:43 - Disk usage inspected: /etc
+2026-03-03 19:14:43 - No logs >50MB found in /etc
+2026-03-03 19:17:47 - Disk usage inspected: /root
+2026-03-03 19:17:47 - No logs >50MB found in /root
+2026-03-03 19:17:56 - Disk usage inspected: /home
+2026-03-03 19:17:56 - No logs >50MB found in /home
+2026-03-03 19:25:43 - Disk usage inspected: /var
+2026-03-03 19:25:44 - No logs >50MB found in /var
+2026-03-03 19:26:09 - Disk inspection failed: directory /var/log/syslog does not exist
+2026-03-03 19:26:57 - Disk inspection failed: directory /var/log/syslog does not exist
+2026-03-03 19:37:25 - System monitor terminated by user

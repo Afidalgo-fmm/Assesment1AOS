@@ -1,0 +1,10 @@
+2026-03-06 19:49:18 - JOB SUBMITTED: student_id=a, job_name='prueba1', est_time=65s, priority=5
+2026-03-06 19:49:22 - JOB COMPLETED (PRIO): student_id=a, job_name=prueba1, priority=5
+2026-03-06 19:49:35 - Scheduler terminated by user
+2026-03-07 11:45:09 - SUBMIT: try1 by 1
+2026-03-07 11:45:42 - SUBMIT: try2 by 2
+2026-03-07 11:45:47 - PARTIAL (RR): try1, Rem: 25
+2026-03-07 11:45:47 - PARTIAL (RR): try2, Rem: 65
+2026-03-07 11:45:56 - COMPLETED (PRIO): try1
+2026-03-07 11:45:56 - COMPLETED (PRIO): try2
+2026-03-07 11:46:13 - SHUTDOWN
