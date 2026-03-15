@@ -6,13 +6,13 @@ This project showcases three advanced automation scripts written in **Bash** and
 
 ## **Table of Contents**
 
-* [Project Overview](https://www.google.com/search?q=%23project-overview)  
-* [1 University Data Centre Process & Resource Management (Bash)](https://www.google.com/search?q=%231-university-data-centre-process--resource-management-bash)  
-* [2 University HPC Job Scheduler System (Bash)](https://www.google.com/search?q=%232-university-hpc-job-scheduler-system-bash)  
-* [3 University Examination Submission & Similarity Detection (Bash & Python)](https://www.google.com/search?q=%233-university-examination-submission--similarity-detection-bash--python)  
-* [Installation & Usage](https://www.google.com/search?q=%23installation--usage)  
-* [Features & Highlights](https://www.google.com/search?q=%23features--highlights)  
-* [Testing & Validation](https://www.google.com/search?q=%23testing--validation)
+* [Project Overview]  
+* [1 University Data Centre Process & Resource Management (Bash)]  
+* [2 University HPC Job Scheduler System (Bash)]  
+* [3 University Examination Submission & Similarity Detection (Bash & Python)]  
+* [Installation & Usage]  
+* [Features & Highlights]  
+* [Testing & Validation]
 
 ---
 
